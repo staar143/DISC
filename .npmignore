@@ -1,0 +1,19 @@
+node_modules/
+*.log
+.git
+key.txt
+.github/workflows/
+docs/
+
+# Tests
+src/tests/
+dist/tests
+types/tests
+
+# Editors
+*.save
+discord.bio.code-workspace
+.vscode
+
+# Test API return
+test.json

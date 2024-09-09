@@ -1,0 +1,21 @@
+{
+  "compilerOptions": {
+    "importHelpers": true,
+    "experimentalDecorators": true,
+    "strict": true,
+    "noImplicitReturns": true,
+    "module": "commonjs",
+    "esModuleInterop": true,
+    "lib": ["esnext"],
+    "target": "es2019",
+    "moduleResolution": "node",
+    "sourceMap": true,
+    "outDir": "dist",
+    "declaration": true,
+    "declarationDir": "types/",
+    "resolveJsonModule": true
+  },
+  "include": [
+    "src/",
+  ]
+} 
